@@ -1,2 +1,2 @@
-# dgmpe.gov.in
+# dgmpe.in
 dgmpe
